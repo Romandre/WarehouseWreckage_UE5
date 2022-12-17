@@ -1,6 +1,6 @@
-# Warehouse Wreckage (UE5)
+# WarehouseWreckage UE5 game repository
 
-This is my first game on Unreal Engine 5 implemented in scope of "Unreal Engine 5 C++ Developer" course on Udemy.
+WarehouseWreckage game was built in Unreal Engine 5 using the blueprint editor. 
 
-Course link: https://www.udemy.com/course/unrealcourse/
+The game was developed in scope of [Unreal Engine 5 C++ Developer course](https://www.udemy.com/course/unrealcourse/).
 
