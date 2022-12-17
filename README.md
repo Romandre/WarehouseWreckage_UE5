@@ -24,4 +24,6 @@ During the development process I learned:
 <br />
 
 #### The game was developed in scope of [Unreal Engine 5 C++ Developer course](https://www.udemy.com/course/unrealcourse/) on Udemy.
+<br /><br /><br />
 
+[Описание игры на русском](https://github.com/Romandre/WarehouseWreckage_UE5/blob/2e9cb15ca3861cc228b29a332f9771044adcd781/README_RU.md) :point_left:
