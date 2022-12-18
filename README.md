@@ -1,6 +1,6 @@
 # WarehouseWreckage UE5 game repository
 
-<img src="https://github.com/Romandre/WarehouseWreckage_UE5/blob/103c5d8d01d7278a0adbb439f05e27752e71299c/Images/WarehouseWreckage.png" width="900">
+<img src="https://github.com/Romandre/WarehouseWreckage_UE5/blob/a743622b9807ef9775708aabf988cef8ba99115e/Images/WarehouseWreckage.png" width="900">
 
 
 ### WarehouseWreckage game was built in Unreal Engine 5 using the blueprint editor. 
