@@ -5,6 +5,8 @@
 
 ### WarehouseWreckage game was built in Unreal Engine 5 using the blueprint editor. 
 
+The game is about causing chaos in a warehouse by shooting the projectiles to surrounding objects. It was creatied in order to get familiar with UE5 physics and collision meshes.
+
 During the development process I learned:
 - blueprint classes, instances and fuctions 
 - scene creation grounds and level building
