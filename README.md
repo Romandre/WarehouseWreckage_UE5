@@ -1,9 +1,9 @@
-# WarehouseWreckage UE5 game repository
+# "Warehouse Wreckage" UE5 game repository
 
 <img src="https://github.com/Romandre/WarehouseWreckage_UE5/blob/a743622b9807ef9775708aabf988cef8ba99115e/Images/WarehouseWreckage.png" width="900">
 
 
-### WarehouseWreckage game was built in Unreal Engine 5 using the blueprint editor. 
+### Warehouse Wreckage game was built in Unreal Engine 5 using the blueprint editor. 
 
 The game is about causing chaos by shooting the projectiles to surrounding objects in abandoned warehouse. It was created in order to get familiar with UE5 physics and collisions nuanses.
 
